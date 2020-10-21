@@ -1,3 +1,8 @@
+# 原文作者 majiang666
+[原文地址](https://github.com/majiang666/copy)  
+
+*** 如果需要权限请联系我，可以删除该贴 ***
+
 ![小程序](https://www.love85g.com/wp-content/uploads/2018/12/xcx.jpg)
 
 ## 20190716更新npm安装
